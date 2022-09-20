@@ -1,0 +1,13 @@
+{
+    "WIDTH_CELL" : 50,
+    "HEIGHT_CELL" : 50,
+    "MARGIN" : 0,
+    "FONT" : {
+        "NAME" : "Consolas Bold",
+        "SIZE" : 72
+    },
+    "RESOLUTION": {
+        "WIDTH" : 1920,
+        "HEIGHT" : 1080
+    }
+}
